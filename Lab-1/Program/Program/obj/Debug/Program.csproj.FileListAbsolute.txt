@@ -1,0 +1,14 @@
+D:\Kod C#\Program\Program\bin\Debug\Program.exe.config
+D:\Kod C#\Program\Program\bin\Debug\Program.exe
+D:\Kod C#\Program\Program\bin\Debug\Program.pdb
+D:\Kod C#\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Kod C#\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Kod C#\Program\Program\obj\Debug\Program.exe
+D:\Kod C#\Program\Program\obj\Debug\Program.pdb
+D:\Kod C#\Lab-1\Program\Program\bin\Debug\Program.exe.config
+D:\Kod C#\Lab-1\Program\Program\bin\Debug\Program.exe
+D:\Kod C#\Lab-1\Program\Program\bin\Debug\Program.pdb
+D:\Kod C#\Lab-1\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Kod C#\Lab-1\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Kod C#\Lab-1\Program\Program\obj\Debug\Program.exe
+D:\Kod C#\Lab-1\Program\Program\obj\Debug\Program.pdb
