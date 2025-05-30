@@ -1,0 +1,10 @@
+D:\Kod C#\Program2\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+D:\Kod C#\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\Kod C#\Program2\Program2\bin\Debug\Program2.exe.config
+D:\Kod C#\Program2\Program2\bin\Debug\Program2.exe
+D:\Kod C#\Program2\Program2\bin\Debug\Program2.pdb
+D:\Kod C#\Program2\Program2\bin\Debug\Newtonsoft.Json.dll
+D:\Kod C#\Program2\Program2\bin\Debug\Newtonsoft.Json.xml
+D:\Kod C#\Program2\Program2\obj\Debug\Program2.csproj.Up2Date
+D:\Kod C#\Program2\Program2\obj\Debug\Program2.exe
+D:\Kod C#\Program2\Program2\obj\Debug\Program2.pdb
