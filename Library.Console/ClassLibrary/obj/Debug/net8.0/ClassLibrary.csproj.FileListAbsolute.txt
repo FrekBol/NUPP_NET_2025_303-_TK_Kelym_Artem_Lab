@@ -1,0 +1,11 @@
+D:\C# laba\Library.Console\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+D:\C# laba\Library.Console\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+D:\C# laba\Library.Console\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+D:\C# laba\Library.Console\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
